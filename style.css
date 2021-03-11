@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Poppins:wght@700&display=swap');
+
+body {
+background-color: #fcf8e8;
+font-family: 'Montserrat', sans-serif;
+font-weight: 500;
+color:025955;
+font-size :16px;
+/*line-height:32px;*/
+}
+
+
+h1 {
+  font-family:'Poppins';
+  color:433520;
+  font-size : 28px;
+  /*line-height: 32px;*/
+}
+
+h2, h3 {
+  font-family:'Poppins';
+  color:435560;
+  font-size : 24px;
+  line-height: 16px;
+}
+
+a {
+  font-weight: bold;
+  color: 290149;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: #ff7171;
+}
+
+
+.card-white {
+background: white;                         /* White background */
+padding: 24px;
+border-radius: 6px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+margin-bottom: 24px;                        /* Internal space */
+}
+
+.text-center {
+  text-align: center;
+}
+
+.avatar {
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+.container {
+  width: 800px;   /* This sets the width */
+  margin-top: 40px; /* This automatically sets left/right margins */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.social-icone {
+  font-size: 32px;
+  color: rgb(220,220,22O);
+  margin: 8px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
