@@ -51,9 +51,11 @@ margin-bottom: 24px;                        /* Internal space */
 
 .avatar {
   width: 150px;
+  height: 150px;
   background-size: cover;
   background-position: center;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .container {
